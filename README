@@ -1,0 +1,27 @@
+Software Requirements Specification for a online chess application
+
+Table of Contents
+Introduction
+1.1. Purpose
+1.2. Intended Audience and Reading Suggestions
+1.3. Definitions, acronyms, and abbreviations
+1.4. Project Scope
+1.5. References
+Overall Description
+2.1. Product Perspective
+2.2. Product Features
+2.3. User Classes and Characteristics
+2.4. Operating Environment
+2.5. Design and Implementation Constraints
+Specific Requirements
+3.1. Section A (Use Cases)
+3.2. Section B (Sequence diagrams)
+External Interface requirements
+4.1. User Interfaces
+4.2. Hardware Interfaces
+4.3. Software interfaces
+Other nonfunctional requirements
+5.1. Performance requirements
+5.2. Safety requirements
+5.3. Security Requirements
+5.4. Software Quality Attributes 
